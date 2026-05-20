@@ -1,1 +1,5 @@
-/Tubes/
+/Tubes/*.o
+/Tubes/*.exe
+/Tubes/*.layout
+/Tubes/*.win
+/Tubes/*.dev
